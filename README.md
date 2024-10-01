@@ -1,5 +1,6 @@
 # www.locamera.com
 
+![2](https://github.com/user-attachments/assets/e2e5c58c-12da-4b25-9606-8e1da8eb7016)
 
  brand identity that incorporates the ideas of cameras on streets, cameras on maps, and camera localization.
 
